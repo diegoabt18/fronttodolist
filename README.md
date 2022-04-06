@@ -1,70 +1,85 @@
-# Getting Started with Create React App
+# Frontend para to-do List
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> Proyecto Frontend api rest construida con react
 
-## Available Scripts
+## Capturas
 
-In the project directory, you can run:
+![image](https://user-images.githubusercontent.com/47578861/161894792-19be05a5-84bd-46b5-9f4e-d25111c2ecf9.png)
+![image](https://user-images.githubusercontent.com/47578861/161894881-15693a64-9642-4f9c-9b92-7c4b2509e95e.png)
 
-### `npm start`
+mobil
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![image](https://user-images.githubusercontent.com/47578861/161894997-fadac49c-dc93-4ae2-8fb5-fe4bf32c9ae3.png)
+![image](https://user-images.githubusercontent.com/47578861/161895061-3bc09b35-fd96-4a81-aa6f-792998115013.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## 💻 Pré-requisitos
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Antes de comenzar, verifique que contienes los seguintes requisitos:
+* Tener instalado node.js
+* Visual Studio Code
+* crear el api rest del backend, ingresa [aqui](https://github.com/diegoabt18/backtodolist) para conocer mas
 
-### `npm run build`
+##  Instalando
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Para instalar el proyecto localmente, siga estas etapas:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" />
 
-### `npm run eject`
+ingresa a tu ventana de comandos y ejecuta lo siguiente para clonar el repositorio
+```
+git clone https://github.com/diegoabt18/fronttodolist.git
+```
+Instala las dependecias con el siguiente comando
+```
+npm install
+```
+Ejecuta el servidor una vez instalado las dependencias con el siguiente comando
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
+npm start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## ☕ Usando
+<img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<img  src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
-## Learn More
+<img  src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🚀 Despliegue
 
-### Analyzing the Bundle Size
+El despliegue se realizo a traves de vercel
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![image](https://user-images.githubusercontent.com/47578861/161894555-f8cd7840-9ff0-4c58-b05b-0bcf697c5b0b.png)
 
-### Making a Progressive Web App
+[despliegue de la app en vercel](https://fronttodolist.vercel.app/index)
+:hammer: 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 🤝 Autores
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/Diegoabt18" width="100px;" alt="Foto do Diego Botello no GitHub"/><br>
+        <sub>
+          <b>Diego Botello</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 📝 Licencia
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
